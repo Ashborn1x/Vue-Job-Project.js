@@ -29,3 +29,6 @@ npm run build
 ```
 
 this will be my test project - jon
+
+progress 1 45:47
+https://www.youtube.com/watch?v=VeNfHj6MhgA&t=2348s
